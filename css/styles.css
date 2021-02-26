@@ -1509,7 +1509,6 @@ span.error {
 }
 
 .main-right-left {
-    display: flex;
     width: 65%;
     margin-top: 5%;
 }
@@ -2499,7 +2498,7 @@ section .next-winner {
 
     .menu-links {
         position: fixed;
-        top: -100%;
+        top: -200%;
         right: 0;
         width: 100vw;
         transition: all .2s linear;
